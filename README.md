@@ -20,11 +20,13 @@ The company also wants clear answers to the following questions:
 
 ### Initial Data Structure: 
 The dataset contains 398 vehicle records. The prediction target is MPG (miles per gallon). UCI identifies seven predictive features, while car_name is an identifier that should be evaluated carefully.
-The data isn't completely clean, which required some inspection and clean before moving to the EDA step
+The data isn't completely clean, which required some inspection and clean before moving to the EDA step.
+The full initial dataset can be found in the "Data.xlsx" file
 ##### Note: I'm aware that this a small dataset, but everything that was made, namely all the applied thought processes could be used in any dimension dataset. 
 
 ### Presentation:
 I have a 4 pages word report in the repository that contains all the workflow, the main decisions I took during the project and a good resume of the notebook. Please read the document for further context and understand. 
+
 
 
 
